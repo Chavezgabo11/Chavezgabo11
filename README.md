@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel Chavez</h1>
+<h3 align="center">A Front-End Developer 💻 from El Salvador 🌊 living in Canada 🍁</h3>
 
-<!--
-**Chavezgabo11/Chavezgabo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="http://gabrielchavezportillo.com/">
+    <img alt="Gabriel Eugenio My Portfolio" width="33px" src="https://www.iconsdb.com/icons/download/white/website-design-2-64.png">
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielchavezportillo/">
+    <img alt="Gabriel Chavez LinkedIn" width="33px" src="https://www.iconsdb.com/icons/download/white/linkedin-4-64.png">
+  </a>
+</p>
+<p align="center">
+  - 👨‍🎓 I’m currently studying at <a href="https://www.fanshawec.ca/programs/idp3-interactive-media-design/next"> Fanshawe College - Interactive Media Design </a> and <a href="https://www.northern.co/fanshawe-drupal-course/"> Northern Commerce - Drupal Course </a>!
+</p>
+<p align="center">
+  - 📧 Reach me through my email <a href="mailto:gechavezportillo@gmail.com"> gechavezportillo@gmail.com </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+Languages and Tools:
+</h4>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</p>
