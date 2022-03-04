@@ -32,7 +32,8 @@ Languages and Tools:
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavezgabo11&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavezgabo11&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavezgabo11&count_private=true&theme=radical" alt="Jas-Script" />
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=chavezgabo11&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/chavezgabo11/github-readme-stats)
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chavezgabo11&count_private=true&theme=radical" alt="chavezgabo11" />
 
