@@ -32,12 +32,6 @@ Languages and Tools:
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
-<h4>
-😎My GitHub stats:
-</h4> 
-![Gabriel Chavez's github stats](https://github-readme-stats.vercel.app/api?username=chavezgabo11&show_icons=true&title_color=d62828&icon_color=f77f00&text_color=fcbf49&bg_color=2b2d42&hide=[%22stars%22])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavezgabo11&layout=compact&title_color=d62828&icon_color=f77f00&text_color=fcbf49&bg_color=2b2d42&hide=[%22stars%22])](https://github.com/chavezgabo11/github-readme-stats)
-
-### 🐱My Github stats:
+### 😎My GitHub stats:
 ![Gabriel Chavez's github stats](https://github-readme-stats.vercel.app/api?username=chavezgabo11&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavezgabo11&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/chavezgabo11/github-readme-stats)
